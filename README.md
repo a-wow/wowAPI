@@ -9,7 +9,7 @@ To get information about a character, or about an entire guild on your players' 
 - Provide information to developers in a format convenient for you. The index.php file contains the code that developers of their sites should place in a convenient place for them!
 Also, the links _$url = "http://your_server/api.php?action=getCharacter&name=" . urlencode($name);_ and _$url = "http://your_server/api.php?action=getGuild&guildName=" . urlencode($name);_ should be configured for your API.
 
-##Information
+## Information
 
 The index.php page displays the entered data inside the file.
 The index-search.php page allows you to enter data and get information.
