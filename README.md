@@ -7,7 +7,7 @@ To get information about a character, or about an entire guild on your players' 
 - Place the api directory in any convenient place for you.
 - Set up the config.php file
 - Provide information to developers in a format convenient for you. The index.php file contains the code that developers of their sites should place in a convenient place for them!
-Also, the links $url = "http://your_server/api.php?action=getCharacter&name=" . urlencode($name); and $url = "http://your_server/api.php?action=getGuild&guildName=" . urlencode($name); should be configured for your API.
+Also, the links _$url = "http://your_server/api.php?action=getCharacter&name=" . urlencode($name);_ and _$url = "http://your_server/api.php?action=getGuild&guildName=" . urlencode($name);_ should be configured for your API.
 
 ##Information
 
